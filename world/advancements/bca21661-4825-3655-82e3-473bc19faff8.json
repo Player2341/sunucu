@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-03-23 05:36:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-03-23 05:36:42 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

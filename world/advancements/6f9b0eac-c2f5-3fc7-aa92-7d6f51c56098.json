@@ -1,0 +1,33 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-04-13 20:25:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2022-04-13 20:25:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2022-04-13 20:25:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-04-13 20:26:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-04-13 20:26:39 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2022-04-02 18:48:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2022-04-02 18:48:04 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,9 @@
+{
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-03-06 16:32:43 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
